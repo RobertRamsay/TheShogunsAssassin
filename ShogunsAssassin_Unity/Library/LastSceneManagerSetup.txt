@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/All/BonzaiTree/BonzaiScene.unity
+  isLoaded: 1
+  isActive: 1
