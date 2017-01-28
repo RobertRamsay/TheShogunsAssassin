@@ -179,6 +179,7 @@
      <None Include="Assets\All\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader" />
      <None Include="Assets\All\ShaderForge\Editor\InternalResources\GPU Rendering\SFN_Rotator\SFN_Rotator_PIV_SPD.shader" />
      <None Include="Assets\All\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
+     <None Include="Assets\Log.txt" />
      <None Include="Assets\All\LightShafts-master\Coord.shader" />
      <None Include="Assets\All\ShaderForge\Editor\InternalResources\GPU Rendering\SFN_Cubemap\SFN_Cubemap.shader" />
      <None Include="Assets\All\ShaderForge\Readme.txt" />
